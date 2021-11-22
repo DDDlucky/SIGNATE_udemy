@@ -1,0 +1,5 @@
+【練習問題】銀行の顧客ターゲティング
+https://signate.jp/competitions/1/data
+
+train_score = gcv.cv_results_["mean_train_score"]
+test_score = gcv.cv_results_["mean_test_score"]
